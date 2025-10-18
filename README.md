@@ -40,7 +40,7 @@ Ensure you have the following installed:
 ### Running the Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/rishabhhshahh/Yield-Curve-Analysis-and-Forecasting.git
+   git clone https://github.com/rohank170403/Yield-Curve-Analysis-and-Forecasting.git
    cd Yield-Curve-Analysis-and-Forecasting
    ```
 2. Install dependencies:
